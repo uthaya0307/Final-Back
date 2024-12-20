@@ -1,0 +1,13 @@
+
+POST      http://localhost:5000/app/login
+Content-Type: application/json
+
+
+{
+   
+    "name":"malar",
+    "email":"kamal@gmail.com",
+    "contact":"8085646588",
+    "address":"coimbathor",
+    "gender":"male"
+}
